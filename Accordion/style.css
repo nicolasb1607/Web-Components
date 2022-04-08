@@ -51,7 +51,6 @@ li {
 
 .item {
     padding: 24px;
-    /* border-top: 10px solid #099268; */
     box-shadow: 0px 0px 32px rgba(0, 0, 0, 0.397);
     display: grid;
     grid-template-columns: auto 1fr auto;
@@ -62,12 +61,10 @@ li {
 
 .number {
     color: #adb5bd;
-    /* background-color: red; */
 }
 
 .text {
     line-height: 1.5;
-    /* background-color: blue; */
     color: #343a40;
 }
 
@@ -75,7 +72,6 @@ li {
     width: 24px;
     height: 24px;
     stroke: #099268;
-    /* background-color: yellow; */
 }
 
 .hidden-box {
