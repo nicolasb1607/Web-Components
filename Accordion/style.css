@@ -76,7 +76,7 @@ li {
 
 .hidden-box {
     grid-column: 2/ 3;
-    display: none;
+    /* display: none; */
 }
 
 .hidden-box p {
@@ -101,6 +101,7 @@ li {
 
 .open .hidden-box {
     display: block;
+    display: none;
 }
 
 .open .number{
